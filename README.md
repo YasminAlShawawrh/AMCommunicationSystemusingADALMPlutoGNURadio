@@ -8,7 +8,7 @@ The system supports both **monotone (sine wave)** and **audio signal transmissio
 - [Yasmin Al Shawawrh](https://github.com/YasminAlShawawrh)
 - Basmala Abu Hakema
 - Layal Hajji
-- 
+
 ## Table of contents
 
 - [System overview](#system-overview)
