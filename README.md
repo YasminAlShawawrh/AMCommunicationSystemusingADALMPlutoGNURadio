@@ -4,7 +4,11 @@ A complete **Amplitude Modulation (AM) communication system** implemented using 
 The system supports both **monotone (sine wave)** and **audio signal transmission and reception**, and demonstrates practical SDR-based communication design.
 
 ---
-
+### Prepared by  
+- [Yasmin Al Shawawrh](https://github.com/YasminAlShawawrh)
+- Basmala Abu Hakema
+- Layal Hajji
+- 
 ## Table of contents
 
 - [System overview](#system-overview)
